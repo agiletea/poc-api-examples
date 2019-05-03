@@ -1,0 +1,15 @@
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UsersApi.csproj.CoreCompileInputs.cache
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UsersApi.AssemblyInfoInputs.cache
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UsersApi.AssemblyInfo.cs
+F:\Source\Repos\POC\Azure API\UsersApi\bin\Debug\netcoreapp2.1\UsersApi.deps.json
+F:\Source\Repos\POC\Azure API\UsersApi\bin\Debug\netcoreapp2.1\UsersApi.runtimeconfig.json
+F:\Source\Repos\POC\Azure API\UsersApi\bin\Debug\netcoreapp2.1\UsersApi.runtimeconfig.dev.json
+F:\Source\Repos\POC\Azure API\UsersApi\bin\Debug\netcoreapp2.1\UsersApi.dll
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UsersApi.RazorAssemblyInfo.cache
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UsersApi.RazorAssemblyInfo.cs
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UsersApi.RazorTargetAssemblyInfo.cache
+F:\Source\Repos\POC\Azure API\UsersApi\bin\Debug\netcoreapp2.1\UsersApi.pdb
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UsersApi.dll
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UsersApi.pdb
+F:\Source\Repos\POC\Azure API\UsersApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\Source\Repos\POC\Azure API\UsersApi\bin\Debug\netcoreapp2.1\UsersApi.xml
